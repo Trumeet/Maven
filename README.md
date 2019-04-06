@@ -18,6 +18,10 @@ repositories {
 }
 ```
 
+# Browse libraries
+
+The static web page does not support browsing, so you can alternately the Git repo: [Trumeet/Maven](https://github.com/Trumeet/Maven)
+
 # Licenses
 
 Some of them are SDKs of non-open projects. You should not self-host them or republish any of them. For open-source libraries hosted here, see license files for each of them.
