@@ -3,10 +3,11 @@
   <groupId>moe.yuuta.setupwizard</groupId>
   <artifactId>navigationbar</artifactId>
   <versioning>
-    <release>android-9.0.0_r9-12</release>
+    <release>HEAD-13</release>
     <versions>
       <version>android-9.0.0_r9-12</version>
+      <version>HEAD-13</version>
     </versions>
-    <lastUpdated>20190410030001</lastUpdated>
+    <lastUpdated>20190410030703</lastUpdated>
   </versioning>
 </metadata>
