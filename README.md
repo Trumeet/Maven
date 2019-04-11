@@ -1,4 +1,6 @@
-# Maven
+# YuutaW's Maven Repo
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Trumeet/Maven.svg)
 
 Hi there! This is YuutaW's personal maven repository! Some personal libraries are stored here in order to avoid some additoinal publishing fees.
 
